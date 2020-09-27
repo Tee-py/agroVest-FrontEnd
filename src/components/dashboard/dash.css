@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+
+
+.hb-head {
+    color: white;
+    font-size: 20px;
+    font-family: 'Heebo', sans-serif;
+
+}
+
+
+
+.hb-num {
+    color: rgb(0, 66, 128);
+    font-size: 20px
+}
+
+
+.help-head {
+    font-family: 'Noto Sans JP', sans-serif;
+    padding: 1rem;
+    color: white;
+}
+
+.rb-h {
+    font-size: 25px;
+    color: white;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.rb-c {
+    font-size: 15px;
+    color: white;
+}
+
+.a-s img {
+    height: 50px;
+}
+
+.i-h {
+    font-family: 'Piedra', cursive;
+    font-size: 20px;
+}
+
+.c-h, .c-tiny {
+    font-family: 'MuseoModerno', cursive;
+}
+
+.c-h {
+    font-size: 30px;
+    color: darkcyan;
+}
+
+.info-card:hover {
+    transform: scale(1.035);
+}
+
+.info-card {
+    transition: all 300ms ease-in-out;
+}
+
+.btn-info:focus {
+    border-color: #5e72e4;
+}
+
+.scroll-main {
+    padding: 5rem;
+}
+
+.h-sec h5{
+    font-family: 'Open Sans', sans-serif;
+}
+
+@media (max-width: 768px) {
+    .h-sec {
+        text-align: center;
+    }
+
+    .buttons {
+        display: block;
+    }
+}
+
+.b-txt h1{
+    font-family: 'DM Sans', sans-serif;
+}
+
+@media (min-width: 769px) {
+    
+}

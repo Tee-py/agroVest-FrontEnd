@@ -1,0 +1,20 @@
+.footer {
+    background-color: rgb(37, 37, 34);
+    padding: 2rem;
+}
+
+p {
+    color: white;
+}
+
+strong {
+    color: white; 
+    font-size: 30px; 
+    font-family: 'Roboto', cursive;
+}
+
+i {
+    font-size: 40px; 
+    color: white; 
+    margin: 1rem;
+}
